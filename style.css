@@ -1,0 +1,52 @@
+#tabel-siswa{
+	border-collapse: collapse;
+	background: url(img/bg.jpg);
+	background-size: 100%;
+	background-repeat: repeat;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+
+	margin: auto;
+}
+.link{
+	color: orange;
+	text-decoration: none;
+}
+body{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(img/view.jpg);
+	background-size: 100%;
+}
+img{
+	width: 140px;
+}
+#tabel-siswa h3{
+	font-size: 32px;
+}
+.nama{
+	text-align: center;
+}
+#tabel-siswa td{
+	padding: 10px;
+}
+
+
+#tabel-biodata{
+	border-collapse: collapse;
+	background: url(img/bg.jpg);
+	background-size: 100%;
+	background-repeat: repeat;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+
+	margin: auto;
+}
+
+#tabel-biodata td{
+	padding: 20px;
+}
